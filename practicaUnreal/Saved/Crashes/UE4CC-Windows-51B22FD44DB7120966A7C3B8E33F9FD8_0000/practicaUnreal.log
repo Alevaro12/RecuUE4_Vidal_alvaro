@@ -1,0 +1,1093 @@
+﻿Log file open, 03/09/20 19:39:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: practicaUnreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.115481
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Alevaro12 -epicuserid=6de0ab359227493b88970a184f516c54 -epiclocale=es
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.09-18.39.38:093][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.09-18.39.38:093][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.09-18.39.38:093][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.09-18.39.38:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:094][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:097][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.09-18.39.38:097][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.09-18.39.38:098][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.09-18.39.38:098][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.09-18.39.38:098][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.09-18.39.38:101][  0]LogHAL: Display: Platform has ~ 16 GB [17036767232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.09-18.39.38:101][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.09-18.39.38:101][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:101][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2020.03.09-18.39.38:101][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.09-18.39.38:102][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Scalability.ini]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.09-18.39.38:103][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Config/Windows/Engine.ini]
+[2020.03.09-18.39.38:103][  0]LogInit: Computer: DESKTOP-ETD211N
+[2020.03.09-18.39.38:103][  0]LogInit: User: alvar
+[2020.03.09-18.39.38:103][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.09-18.39.38:103][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.09-18.39.38:104][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.09-18.39.38:104][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.09-18.39.38:104][  0]LogMemory: Process Physical Memory: 105.65 MB used, 105.65 MB peak
+[2020.03.09-18.39.38:104][  0]LogMemory: Process Virtual Memory: 100.69 MB used, 100.69 MB peak
+[2020.03.09-18.39.38:104][  0]LogMemory: Physical Memory: 6342.43 MB used,  9905.09 MB free, 16247.53 MB total
+[2020.03.09-18.39.38:104][  0]LogMemory: Virtual Memory: 5137.46 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.03.09-18.39.38:106][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.09-18.39.38:131][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.09-18.39.38:131][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.09-18.39.38:369][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.09-18.39.38:399][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.09-18.39.38:399][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.09-18.39.38:635][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.09-18.39.38:635][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.09-18.39.38:635][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.09-18.39.38:635][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.09-18.39.38:717][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.03.09-18.39.38:717][  0]LogD3D11RHI:       2010/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.09-18.39.38:727][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.03.09-18.39.38:727][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.09-18.39.38:731][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.09-18.39.38:731][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.09-18.39.38:731][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.09-18.39.38:786][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.09-18.39.38:787][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.03.09-18.39.38:787][  0]LogWindows: EnumDisplayDevices:
+[2020.03.09-18.39.38:787][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.03.09-18.39.38:787][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.03.09-18.39.38:788][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.03.09-18.39.38:788][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.09-18.39.38:788][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.03.09-18.39.38:788][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.09-18.39.38:788][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.09-18.39.38:788][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.03.09-18.39.38:843][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.09-18.39.38:843][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.09-18.39.38:867][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.09-18.39.39:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.09-18.39.39:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.09-18.39.39:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.09-18.39.39:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.09-18.39.39:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.09-18.39.39:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.09-18.39.39:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.09-18.39.39:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.09-18.39.39:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.09-18.39.39:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.09-18.39.39:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.09-18.39.40:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.09-18.39.40:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.09-18.39.40:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.09-18.39.40:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.09-18.39.40:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.09-18.39.40:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.09-18.39.40:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.09-18.39.40:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.09-18.39.40:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.09-18.39.40:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.09-18.39.40:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.09-18.39.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.09-18.39.40:437][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.09-18.39.40:449][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.09-18.39.40:553][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Intermediate/Shaders/WorkingDirectory/13456/).
+[2020.03.09-18.39.40:554][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alvar/AppData/Local/Temp/UnrealShaderWorkingDir/ADA94D234FCD3AE98516559B22626AD7/'.
+[2020.03.09-18.39.40:555][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.09-18.39.40:556][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.09-18.39.40:556][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.09-18.39.44:046][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.09-18.39.44:248][  0]LogDerivedDataCache: Loaded boot cache 0.20s 78MB C:/Users/alvar/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.09-18.39.44:248][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alvar/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.09-18.39.44:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.09-18.39.44:248][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.09-18.39.44:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.09-18.39.44:249][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.09-18.39.44:295][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.09-18.39.44:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.09-18.39.44:296][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.09-18.39.44:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alvar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.09-18.39.44:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.09-18.39.44:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.09-18.39.44:423][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.09-18.39.44:434][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.09-18.39.44:436][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.09-18.39.44:662][  0]LogAssetRegistry: FAssetRegistry took 0.0106 seconds to start up
+[2020.03.09-18.39.46:081][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.09-18.39.46:359][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.09-18.39.46:359][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.09-18.39.46:359][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.09-18.39.46:359][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.09-18.39.46:359][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.09-18.39.46:373][  0]LogNetVersion: practicaUnreal 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 102712005)
+[2020.03.09-18.39.47:673][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.052786 seconds
+[2020.03.09-18.39.47:683][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.09-18.39.47:683][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.09-18.39.47:683][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.09-18.39.48:176][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.09-18.39.48:180][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.09-18.39.48:241][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.48:241][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.48:242][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.48:243][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.48:244][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.48:337][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.09-18.39.48:350][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.09-18.39.48:350][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.09-18.39.48:458][  0]LogOcInput: OculusInput pre-init called
+[2020.03.09-18.39.48:467][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.09-18.39.48:467][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.09-18.39.48:550][  0]LogEngine: Initializing Engine...
+[2020.03.09-18.39.48:551][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.09-18.39.48:552][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.09-18.39.48:984][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.09-18.39.48:991][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-18.39.49:015][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-18.39.49:015][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-18.39.49:016][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-18.39.49:016][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-18.39.49:031][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-18.39.49:032][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-18.39.49:068][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.09-18.39.49:072][  0]LogInit: FAudioDevice initialized.
+[2020.03.09-18.39.49:073][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.09-18.39.49:125][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/alvar/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.09-18.39.49:132][  0]LogInit: Texture streaming: Enabled
+[2020.03.09-18.39.49:143][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.09-18.39.49:143][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.09-18.39.49:145][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.09-18.39.49:220][  0]LogInit: Transaction tracking system initialized
+[2020.03.09-18.39.49:231][  0]BlueprintLog: New page: Editor Load
+[2020.03.09-18.39.49:266][  0]LocalizationService: Localization service is disabled
+[2020.03.09-18.39.50:734][  0]LogFileCache: Scanning file cache for directory 'C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/' took 0.02s
+[2020.03.09-18.39.50:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.09-18.39.50:734][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.09-18.39.51:509][  0]SourceControl: Source control is disabled
+[2020.03.09-18.39.51:510][  0]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/GameMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.39.51:510][  0]LightingResults: New page: Lighting Build
+[2020.03.09-18.39.51:511][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.39.51:511][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.39.51:511][  0]MapCheck: New page: Map Check
+[2020.03.09-18.39.51:511][  0]LightingResults: New page: Lighting Build
+[2020.03.09-18.39.51:544][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.03.09-18.39.52:065][  0]LogAIModule: Creating AISystem for world GameMenu
+[2020.03.09-18.39.52:066][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.39.52:107][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.09-18.39.52:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.39.52:108][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.221ms to complete.
+[2020.03.09-18.39.52:108][  0]LogFileHelpers: Loading map 'GameMenu' took 0.598
+[2020.03.09-18.39.52:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.39.52:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.39.52:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.39.52:323][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.39.52:329][  0]LogCollectionManager: Loaded 0 collections in 0.002030 seconds
+[2020.03.09-18.39.52:347][  0]LogFileCache: Scanning file cache for directory 'C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Collections/' took 0.00s
+[2020.03.09-18.39.52:347][  0]LogFileCache: Scanning file cache for directory 'C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/Developers/alvar/Collections/' took 0.00s
+[2020.03.09-18.39.52:347][  0]LogFileCache: Scanning file cache for directory 'C:/GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/Collections/' took 0.00s
+[2020.03.09-18.39.52:347][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 3015 classes and 717 folders.
+[2020.03.09-18.39.52:351][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.09-18.39.52:412][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.09-18.39.52:418][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.03.09-18.39.52:473][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.09-18.39.52:477][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.09-18.39.52:485][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.09-18.39.52:587][  0]LogRenderer: Reallocating scene render targets to support 960x452 Format 9 NumSamples 1 (Frame:1).
+[2020.03.09-18.39.52:703][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.09-18.39.52:703][  0]LogLoad: (Engine Initialization) Total time: 16.27 seconds
+[2020.03.09-18.39.52:703][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.09-18.39.52:770][  0]LogContentStreaming: Texture pool size now 600 MB
+[2020.03.09-18.39.52:882][  1]LogAssetRegistry: Asset discovery search completed in 8.2230 seconds
+[2020.03.09-18.39.52:886][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.03.09-18.39.58:981][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.09-18.39.59:015][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu'
+[2020.03.09-18.39.59:015][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.09-18.39.59:016][182]PIE: New page: PIE session: GameMenu (Mar 9, 2020, 8:39:59 PM)
+[2020.03.09-18.39.59:017][182]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.09-18.39.59:019][182]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.09-18.39.59:019][182]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMenu
+[2020.03.09-18.39.59:021][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001371s)
+[2020.03.09-18.39.59:022][182]LogAIModule: Creating AISystem for world GameMenu
+[2020.03.09-18.39.59:022][182]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2020.03.09-18.39.59:022][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GameMenu.GameMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMenu.GameMenu (0.002827s)
+[2020.03.09-18.39.59:050][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-18.39.59:054][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-18.39.59:054][182]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-18.39.59:054][182]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: Channel Order:
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-18.39.59:062][182]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-18.39.59:088][182]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.09-18.39.59:091][182]LogInit: FAudioDevice initialized.
+[2020.03.09-18.39.59:100][182]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.09-18.39.59:102][182]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2020.03.09-19.39.59
+[2020.03.09-18.39.59:102][182]LogWorld: Bringing up level for play took: 0.000546
+[2020.03.09-18.39.59:102][182]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.03.09-18.39.59:106][182]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.09-18.39.59:107][182]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-18.39.59:109][182]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMenu 0.859
+[2020.03.09-18.39.59:109][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu'
+[2020.03.09-18.40.00:300][212]LogPackageName: SearchForPackageOnDisk took   0.171s to resolve Terrain.
+[2020.03.09-18.40.04:410][311]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain_LevelInstance_1 took (less than) 132.29 ms
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.09-18.40.04:465][313]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.09-18.40.04:466][313]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.09-18.40.04:466][313]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.09-18.40.04:466][313]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.09-18.40.04:466][313]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.09-18.40.04:466][313]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.09-18.40.04:467][313]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.09-18.40.04:467][313]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.09-18.40.04:690][321]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.04:690][321]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.04:891][327]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.04:891][327]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:124][334]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:125][334]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:357][341]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:357][341]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:589][348]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:589][348]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:822][355]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:822][355]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.05:855][356]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.03.09-18.40.07:255][398]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:255][398]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:487][405]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:487][405]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:688][411]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:688][411]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:919][418]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.07:919][418]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:152][425]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:152][425]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:354][431]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:354][431]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:584][438]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:584][438]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:817][445]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.08:817][445]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:050][452]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:050][452]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:283][459]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:283][459]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:518][466]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:518][466]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-18.40.09:689][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-18.40.09:693][471]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.09-18.40.09:712][471]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.09-18.40.09:712][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu'
+[2020.03.09-18.40.09:712][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.40.09:712][471]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GameMenu
+[2020.03.09-18.40.09:712][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-18.40.09:726][471]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.40.09:726][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.40.09:763][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.09-18.40.09:764][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu' with GeneratedClass '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GameMenu.GameMenu:PersistentLevel.GameMenu'
+[2020.03.09-18.40.09:769][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.40.09:798][471]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-18.40.09:804][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-18.40.09:826][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.03.09-18.40.09:850][472]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.09-18.40.09:877][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.03.09-18.40.16:189][651]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.09-18.40.17:211][667]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.09-18.40.17:457][667]LogAIModule: Creating AISystem for world Terrain
+[2020.03.09-18.40.17:638][667]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.09-18.40.17:673][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.09-18.40.17:677][667]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.40.17:677][667]LightingResults: New page: Lighting Build
+[2020.03.09-18.40.17:678][667]LoadErrors: New page: Loading map: Terrain.umap
+[2020.03.09-18.40.17:678][667]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.40.17:678][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.40.17:678][667]MapCheck: New page: Map Check
+[2020.03.09-18.40.17:678][667]LightingResults: New page: Lighting Build
+[2020.03.09-18.40.17:705][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.03.09-18.40.17:935][667]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.40.17:986][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.03.09-18.40.18:033][667]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.40.18:034][667]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2020.03.09-18.40.18:034][667]LogFileHelpers: Loading map 'Terrain' took 0.358
+[2020.03.09-18.40.38:726][ 43]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain
+[2020.03.09-18.40.38:979][ 43]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.09-18.40.40:009][ 43]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.09-18.40.40:992][ 58]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.09-18.40.44:194][104]LogSlate: Window 'Terrain' being destroyed
+[2020.03.09-18.40.44:293][104]LogSlate: Window 'Terrain' being destroyed
+[2020.03.09-18.40.44:294][104]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.40.44:294][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.44.41:993][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:994][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:998][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:998][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:999][113]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:999][113]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.41:999][113]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.42:000][113]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.42:006][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.42:007][113]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/IluminationMap_BuiltData.IluminationMap_BuiltData Referenced by PersistentLevel
+[2020.03.09-18.44.42:007][113]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap' failed to load '/Game/ThirdPersonBP/Maps/IluminationMap_BuiltData': Can't find file.
+[2020.03.09-18.44.42:041][113]LogAIModule: Creating AISystem for world IluminationMap
+[2020.03.09-18.44.42:084][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/IluminationMap.IluminationMap
+[2020.03.09-18.44.42:140][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.03.09-18.44.42:153][113]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/IluminationMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.44.42:154][113]LightingResults: New page: Lighting Build
+[2020.03.09-18.44.42:154][113]LoadErrors: New page: Loading map: IluminationMap.umap
+[2020.03.09-18.44.42:162][113]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.44.42:162][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.44.42:163][113]MapCheck: New page: Map Check
+[2020.03.09-18.44.42:163][113]LightingResults: New page: Lighting Build
+[2020.03.09-18.44.42:213][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.03.09-18.44.42:284][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.44.42:326][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.09-18.44.42:375][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.44.42:375][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.03.09-18.44.42:375][113]LogFileHelpers: Loading map 'IluminationMap' took 0.223
+[2020.03.09-18.44.59:980][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:980][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:990][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:991][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:993][133]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:993][133]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:993][133]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:993][133]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:999][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.44.59:999][133]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData.TestProgramingDavid_BuiltData Referenced by PersistentLevel
+[2020.03.09-18.44.59:999][133]LogLinker: Warning: While loading '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap' failed to load '/Game/ThirdPersonBP/Maps/TestProgramingDavid_BuiltData': Can't find file.
+[2020.03.09-18.45.00:037][133]LogAIModule: Creating AISystem for world TestProgramingDavid
+[2020.03.09-18.45.00:055][133]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/TestProgramingDavid.TestProgramingDavid
+[2020.03.09-18.45.00:094][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.03.09-18.45.00:107][133]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/TestProgramingDavid.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.45.00:107][133]LightingResults: New page: Lighting Build
+[2020.03.09-18.45.00:108][133]LoadErrors: New page: Loading map: TestProgramingDavid.umap
+[2020.03.09-18.45.00:109][133]LogWorld: UWorld::CleanupWorld for IluminationMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.45.00:110][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.45.00:110][133]MapCheck: New page: Map Check
+[2020.03.09-18.45.00:110][133]LightingResults: New page: Lighting Build
+[2020.03.09-18.45.00:154][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.03.09-18.45.00:177][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.45.00:212][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.03.09-18.45.00:260][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.45.00:261][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2020.03.09-18.45.00:261][133]LogFileHelpers: Loading map 'TestProgramingDavid' took 0.154
+[2020.03.09-18.46.07:196][ 67]LogAIModule: Creating AISystem for world GameMenu
+[2020.03.09-18.46.07:197][ 67]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/GameMenu.GameMenu
+[2020.03.09-18.46.07:239][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.09-18.46.07:246][ 67]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/GameMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.46.07:246][ 67]LightingResults: New page: Lighting Build
+[2020.03.09-18.46.07:246][ 67]LoadErrors: New page: Loading map: GameMenu.umap
+[2020.03.09-18.46.07:247][ 67]LogWorld: UWorld::CleanupWorld for TestProgramingDavid, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.46.07:248][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.46.07:248][ 67]MapCheck: New page: Map Check
+[2020.03.09-18.46.07:248][ 67]LightingResults: New page: Lighting Build
+[2020.03.09-18.46.07:285][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.09-18.46.07:286][ 67]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.46.07:326][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.03.09-18.46.07:375][ 67]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.46.07:376][ 67]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.207ms to complete.
+[2020.03.09-18.46.07:376][ 67]LogFileHelpers: Loading map 'GameMenu' took 0.132
+[2020.03.09-18.46.08:807][138]LogAIModule: Creating AISystem for world Terrain
+[2020.03.09-18.46.08:983][138]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.09-18.46.09:027][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.03.09-18.46.09:028][138]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.46.09:028][138]LightingResults: New page: Lighting Build
+[2020.03.09-18.46.09:029][138]LoadErrors: New page: Loading map: Terrain.umap
+[2020.03.09-18.46.09:029][138]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.46.09:029][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.46.09:030][138]MapCheck: New page: Map Check
+[2020.03.09-18.46.09:030][138]LightingResults: New page: Lighting Build
+[2020.03.09-18.46.09:071][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.03.09-18.46.09:294][138]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.46.09:350][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.09-18.46.09:398][138]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.46.09:399][138]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2020.03.09-18.46.09:399][138]LogFileHelpers: Loading map 'Terrain' took 0.370
+[2020.03.09-18.46.12:196][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.03.09-18.55.27:128][226]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Terrain.Terrain
+[2020.03.09-18.55.27:164][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.09-18.55.27:167][226]Cmd: MAP LOAD FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.09-18.55.27:167][226]LightingResults: New page: Lighting Build
+[2020.03.09-18.55.27:168][226]LoadErrors: New page: Loading map: Terrain.umap
+[2020.03.09-18.55.27:173][226]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-18.55.27:173][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-18.55.27:174][226]MapCheck: New page: Map Check
+[2020.03.09-18.55.27:174][226]LightingResults: New page: Lighting Build
+[2020.03.09-18.55.27:222][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.03.09-18.55.27:382][226]LogAIModule: Creating AISystem for world Terrain
+[2020.03.09-18.55.27:560][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.09-18.55.27:631][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.03.09-18.55.27:684][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.09-18.55.27:684][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.03.09-18.55.27:684][226]LogFileHelpers: Loading map 'Terrain' took 0.519
+[2020.03.09-18.57.50:449][376]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.09-19.00.24:302][ 54]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SavingDataFolder/SaveBP.SaveBP
+[2020.03.09-19.01.00:481][377]LogSlate: Took 0.007577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.09-19.01.44:073][687]BlueprintLog: New page: Compile SaveBP
+[2020.03.09-19.01.44:122][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.03.09-19.01.45:207][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavingDataFolder/SaveBP" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset" SILENT=true
+[2020.03.09-19.01.45:218][697]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/SaveBPFD04A1FD4FF6AAE2114B2CBDB4E5CCB3.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset'
+[2020.03.09-19.01.45:323][697]AssetCheck: New page: Asset Save: SaveBP
+[2020.03.09-19.01.45:324][697]LogContentValidation: Display: Validating Blueprint /Game/SavingDataFolder/SaveBP.SaveBP
+[2020.03.09-19.01.59:501][771]LogSlate: Window 'SaveBP' being destroyed
+[2020.03.09-19.01.59:606][771]LogSlate: Window 'SaveBP' being destroyed
+[2020.03.09-19.01.59:632][771]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-19.01.59:633][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-19.02.04:159][900]LogEditorViewport: Clicking on Actor (LMB): MYFirstPC_C (MYFirstPC)
+[2020.03.09-19.02.07:872][975]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.09-19.02.13:273][137]LogEditorViewport: Clicking on Actor (LMB): MYFirstPC_C (MYFirstPC)
+[2020.03.09-19.02.14:931][168]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC
+[2020.03.09-19.06.47:344][123]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.03.09-19.06.47:924][123]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain_Auto19AA0EA224EC38448A94756BAA1E3D135.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/Terrain_Auto1.umap'
+[2020.03.09-19.06.47:927][123]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Terrain' took 0.625
+[2020.03.09-19.06.47:927][123]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.625
+[2020.03.09-19.06.47:927][123]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MYFirstPC] ([1] browsable assets)...
+[2020.03.09-19.06.47:956][123]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC]
+[2020.03.09-19.06.47:956][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MYFirstPC]
+[2020.03.09-19.06.48:039][123]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/MYFirstPC_Auto16FD96431474EFA4F143B1DA71AA3D794.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MYFirstPC_Auto1.uasset'
+[2020.03.09-19.06.48:040][123]LogFileHelpers: Auto-saving content packages took 0.113
+[2020.03.09-19.11.07:190][819]LogRenderer: Reallocating scene render targets to support 960x536 Format 9 NumSamples 1 (Frame:1).
+[2020.03.09-19.12.44:263][650]BlueprintLog: New page: Compile MYFirstPC
+[2020.03.09-19.12.44:713][650]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.03.09-19.14.39:782][638]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.09-19.15.03:383][515]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::CreateSaveGameObject' [No se puede encontrar el módulo especificado.]
+[2020.03.09-19.15.06:108][655]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::CreateSaveGameObject' [No se ha encontrado el elemento.]
+[2020.03.09-19.15.07:790][734]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::CreateSaveGameObject' [No se ha encontrado el elemento.]
+[2020.03.09-19.16.57:482][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.03.09-19.16.58:052][178]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain_Auto22DC6020345E70A4ACC3BC79EAF3C3A2E.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/Terrain_Auto2.umap'
+[2020.03.09-19.16.58:055][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Terrain' took 0.620
+[2020.03.09-19.16.58:055][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.620
+[2020.03.09-19.16.58:055][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MYFirstPC] ([1] browsable assets)...
+[2020.03.09-19.16.58:066][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC]
+[2020.03.09-19.16.58:066][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MYFirstPC]
+[2020.03.09-19.16.58:151][178]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/MYFirstPC_Auto238CFE43E4F392675A47F27889725CBA4.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MYFirstPC_Auto2.uasset'
+[2020.03.09-19.16.58:152][178]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.03.09-19.20.22:905][196]BlueprintLog: New page: Compile MYFirstPC
+[2020.03.09-19.20.23:333][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.09-19.20.23:983][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MYFirstPC" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset" SILENT=true
+[2020.03.09-19.20.24:070][223]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/MYFirstPC1C64DD7E4F7C29A2AD3DC0AEC00117D3.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset'
+[2020.03.09-19.20.24:096][223]AssetCheck: New page: Asset Save: MYFirstPC
+[2020.03.09-19.20.24:096][223]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC
+[2020.03.09-19.20.33:224][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MYFirstPC" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset" SILENT=true
+[2020.03.09-19.20.33:301][687]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/MYFirstPC724EBB834933AC6B5AC06CB1B95501A2.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset'
+[2020.03.09-19.20.33:324][687]AssetCheck: New page: Asset Save: MYFirstPC
+[2020.03.09-19.20.33:324][687]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC
+[2020.03.09-19.20.35:081][778]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.09-19.20.35:106][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.09-19.20.35:106][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.09-19.20.35:106][778]PIE: New page: PIE session: Terrain (Mar 9, 2020, 9:20:35 PM)
+[2020.03.09-19.20.35:106][778]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.09-19.20.35:231][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123788s)
+[2020.03.09-19.20.35:233][778]LogAIModule: Creating AISystem for world Terrain
+[2020.03.09-19.20.35:233][778]LogPlayLevel: PIE: World Init took: (0.002421s)
+[2020.03.09-19.20.35:233][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Terrain.Terrain to /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain (0.126609s)
+[2020.03.09-19.20.35:279][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.09-19.20.35:283][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.09-19.20.35:283][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.09-19.20.35:284][778]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.09-19.20.35:284][778]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Is Default: Yes
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: Channel Order:
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.09-19.20.35:292][778]LogAudioMixer: Display: 1: FrontRight
+[2020.03.09-19.20.35:316][778]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.03.09-19.20.35:318][778]LogInit: FAudioDevice initialized.
+[2020.03.09-19.20.35:328][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.09-19.20.35:350][778]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 60) at 2020.03.09-20.20.35
+[2020.03.09-19.20.35:352][778]LogWorld: Bringing up level for play took: 0.022916
+[2020.03.09-19.20.35:352][778]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Door_Blueprint_2] 40.0
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Door_Blueprint_2] -260.0
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Elevator_Blueprint_2] -600.0
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Elevator_Blueprint_2] -1800.0
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Elevator_Blueprint2] 600.0
+[2020.03.09-19.20.35:355][778]LogBlueprintUserMessages: [Elevator_Blueprint2] -300.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorCoins_Blueprint2] 280.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorCoins_Blueprint2] -20.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] 280.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorCoins_Blueprint_2] -20.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorKey_Blueprint2] 50.0
+[2020.03.09-19.20.35:356][778]LogBlueprintUserMessages: [DoorKey_Blueprint2] -250.0
+[2020.03.09-19.20.35:357][778]LogBlueprintUserMessages: [DoorKey_Blueprint_2] 50.0
+[2020.03.09-19.20.35:357][778]LogBlueprintUserMessages: [DoorKey_Blueprint_2] -250.0
+[2020.03.09-19.20.35:359][778]LogBlueprintUserMessages: [CoinCounter] Succeded
+[2020.03.09-19.20.35:359][778]LogBlueprintUserMessages: [CoinCounter] 0
+[2020.03.09-19.20.35:359][778]LogBlueprintUserMessages: [KeyCounter] Succeded
+[2020.03.09-19.20.35:359][778]LogBlueprintUserMessages: [KeyCounter] 0
+[2020.03.09-19.20.35:359][778]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain 1.109
+[2020.03.09-19.20.35:359][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.09-19.20.35:471][779]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.35:471][779]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.35:670][791]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.35:670][791]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.35:870][803]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.35:870][803]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:070][815]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:070][815]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:270][827]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:271][827]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:471][839]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:471][839]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:671][851]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:671][851]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:871][863]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.36:871][863]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:070][875]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:071][875]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:272][887]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:272][887]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:471][899]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:471][899]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:671][911]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:671][911]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:870][923]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.37:870][923]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:076][935]LogBlueprintUserMessages: [MYFirstPC_2] Game Saved
+[2020.03.09-19.20.38:077][935]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:077][935]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:270][947]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:270][947]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:470][959]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:470][959]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:670][971]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:671][971]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:870][983]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.38:870][983]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:071][995]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:071][995]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:271][  7]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:271][  7]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:471][ 19]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:471][ 19]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:671][ 31]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:671][ 31]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:872][ 43]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.39:872][ 43]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:071][ 55]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:071][ 55]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:271][ 67]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:271][ 67]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:472][ 79]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:472][ 79]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:671][ 91]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:671][ 91]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:727][ 94]LogBlueprintUserMessages: [MYFirstPC_2] Game Saved
+[2020.03.09-19.20.40:871][103]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.40:871][103]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:071][115]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:071][115]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:271][127]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:271][127]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:471][139]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:471][139]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:671][151]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:671][151]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:872][163]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.41:872][163]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.42:071][175]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.42:071][175]LogBlueprintUserMessages: [MYFirstPC_2] 0
+[2020.03.09-19.20.42:156][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-19.20.42:163][180]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.09-19.20.42:183][180]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.09-19.20.42:183][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.09-19.20.42:183][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-19.20.42:183][180]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Terrain
+[2020.03.09-19.20.42:183][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-19.20.42:184][180]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.03.09-19.20.42:187][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-19.20.42:219][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.09-19.20.42:219][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain' with GeneratedClass '/Game/ThirdPersonBP/Maps/Terrain.Terrain_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain'
+[2020.03.09-19.20.42:225][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.09-19.20.42:263][180]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.09-19.20.42:268][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.09-19.20.42:282][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.03.09-19.20.42:304][181]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.09-19.20.48:130][517]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/Terrain.Terrain:PersistentLevel.Terrain
+[2020.03.09-19.27.25:158][339]BlueprintLog: New page: Compile MYFirstPC
+[2020.03.09-19.27.25:184][339]LogBlueprint: Error: [Compiler MYFirstPC] The type of  Object  is undetermined.  Connect something to  Cast To SaveBP  to imply a specific type.
+[2020.03.09-19.27.25:185][339]LogBlueprint: Error: [Compiler MYFirstPC] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.03.09-19.27.25:555][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.03.09-19.27.26:261][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/MYFirstPC" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset" SILENT=true
+[2020.03.09-19.27.26:363][365]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/MYFirstPC3DEFA3794DF407DE55A423AEA0D820B9.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/ThirdPersonBP/Blueprints/MYFirstPC.uasset'
+[2020.03.09-19.27.26:382][365]AssetCheck: New page: Asset Save: MYFirstPC
+[2020.03.09-19.27.26:382][365]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/MYFirstPC.MYFirstPC
+[2020.03.09-19.27.54:902][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SavingDataFolder/SaveBP.SaveBP
+[2020.03.09-19.28.36:982][260]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.03.09-19.28.37:583][260]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Terrain_Auto3C990AE2447DF77574BAE85ABFDC9E4F2.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/Terrain_Auto3.umap'
+[2020.03.09-19.28.37:586][260]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Terrain' took 0.652
+[2020.03.09-19.28.37:587][260]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.652
+[2020.03.09-19.28.48:208][888]BlueprintLog: New page: Compile SaveBP
+[2020.03.09-19.28.48:284][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.03.09-19.28.49:249][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavingDataFolder/SaveBP" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset" SILENT=true
+[2020.03.09-19.28.49:266][939]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/SaveBP247A6D91447E78A0DECF73942BB02146.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset'
+[2020.03.09-19.28.49:285][939]AssetCheck: New page: Asset Save: SaveBP
+[2020.03.09-19.28.49:285][939]LogContentValidation: Display: Validating Blueprint /Game/SavingDataFolder/SaveBP.SaveBP
+[2020.03.09-19.28.55:316][105]BlueprintLog: New page: Compile SaveBP
+[2020.03.09-19.28.55:362][105]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.03.09-19.28.55:904][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SavingDataFolder/SaveBP" FILE="../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset" SILENT=true
+[2020.03.09-19.28.55:919][133]LogSavePackage: Moving '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Saved/SaveBPAA99F3034A893E8AA61EB7860D3F02C9.tmp' to '../../../../../../GITHUb DIrecto/Unreal-Practica/practicaUnreal/Content/SavingDataFolder/SaveBP.uasset'
+[2020.03.09-19.28.55:942][133]AssetCheck: New page: Asset Save: SaveBP
+[2020.03.09-19.28.55:942][133]LogContentValidation: Display: Validating Blueprint /Game/SavingDataFolder/SaveBP.SaveBP
+[2020.03.09-19.29.37:038][586]LogUObjectArray: Warning: Empty slot
+[2020.03.09-19.29.37:040][586]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.09-19.29.37:049][586]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.009 s
+[2020.03.09-19.29.37:049][586]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.09-19.29.37:049][586]LogOutputDevice: Error: 
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: Stack: 
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb28a06cd9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2821693a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2822424f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2675bd31 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb1cd5977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb1cd11647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2f6cb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2f8bdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2f7160b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2f6f46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb2f6e8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb5cfa4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb5cf9242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb5cfa7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb5cf8ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb836a5b6d USER32.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb836a5562 USER32.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb5cfa8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ff6c3e56db0 UE4Editor.exe!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ff6c3e6c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ff6c3e6c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ff6c3e7ceae UE4Editor.exe!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ff6c3e7fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb84227bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: [Callstack] 0x00007ffb851cced1 ntdll.dll!UnknownFunction []
+[2020.03.09-19.29.37:050][586]LogOutputDevice: Error: 
+[2020.03.09-19.29.37:065][586]LogStats:                SubmitErrorReport -  0.000 s
